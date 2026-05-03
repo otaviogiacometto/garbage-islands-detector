@@ -117,6 +117,6 @@ O denominador 6 vem da base do contêiner: **2m × 3m = 6 m²**
 
 ## 👤 Autor
 
-**Lucas Leão Ferreira Barbosa**  
+**Otávio Martins**  
 Número USP: 17017390  
 EACH – Universidade de São Paulo
